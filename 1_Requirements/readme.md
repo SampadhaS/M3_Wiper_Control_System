@@ -42,5 +42,11 @@ This system sprays water, or an antifreeze window washer fluid, at the windscree
 |HR_03|Turning on wiper|Implemented|
 |HR_04|Turning off wiper|Implemented|
 
-##
-
+## LOW LEVEL REQUIREMENTS:
+|ID|DESCRIPTION|CATEGORY|
+|---|---|---|
+|LR_01|ON|Implemented|
+|LR_02|Press wiper switch|Implemented|
+|LR_03|Microcontroller supply|Implemented|
+|LR_04|Activating wiper blade|Implemented|
+|LR_01|OFF|Implemented|
